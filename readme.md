@@ -12,7 +12,7 @@ Welcome to the comprehensive repository dedicated to teaching ReactJS in depth. 
 
 1. Clone this repository:
    ```bash
-   https://github.com/DevRajivSharma/React_Revision.git
+   git clone https://github.com/DevRajivSharma/React_Revision.git
    ```
 
 2. Navigate to each project folder and follow the instructions in the respective README to set up and run the project.
